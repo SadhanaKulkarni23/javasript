@@ -1,0 +1,30 @@
+
+var name1 = "Sweety" ;
+var name2 = "Cutie";
+console.log("Value Before Swapping......", );
+console.log("name1 ", name1, " name2: ", name2);
+var temp = name1;
+name1 = name2;
+name2 = temp;
+console.log("Value After Swapping.....", );
+console.log("name1:", name1, " name2:", name2);
+console.log("********************************");
+var num1 = 100;
+var num2 = 200;
+// Output --> num1 = 200,  num2 =100
+
+var num1= 100;
+var num2 = 200;
+var num3= 300;
+console.log(" Value Before Swapping......", );
+console.log("num1: ", num1, " num2: ", num2,"num3:", num3 );
+var temp = num1;
+num1 = num2;
+num2 = temp;
+var temp = num2;
+var temp = num3;
+num3=num1;
+num1=temp;
+
+console.log("Value After Swapping.....", );
+console.log("num1:", num1, " num2:", num2,"num3:",num3);
