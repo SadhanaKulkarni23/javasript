@@ -41,3 +41,11 @@ console.log(swift);
 console.log("--------------------------------------------------------------------------------------------------------------------------------------------");
 console.log(brezza);
 console.log("----------------------------------------------------------------------------------------------------------------------------------------");
+
+
+// finding result in array method is as follow:-->
+const array = [nexa, bmw, scorpio, swift,brezza];
+
+for (const Vehicle of array) {
+    Vehicle.showDetails();
+}
