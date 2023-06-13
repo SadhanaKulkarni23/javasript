@@ -1,0 +1,131 @@
+.container{
+    /* border: 1px solid rgb(236, 234, 234); */
+    height: 800px;
+    width: 800px;
+    margin-left: 300px;
+}
+.card{
+    height:600px;
+    width: 360px;
+    border: 1px solid rgb(236, 234, 234);
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    box-shadow: 1px 1px 1px 2px rgb(236, 234, 234);;
+    
+  
+}
+.image{
+    padding: 8px;
+}
+.useCase{
+    height: 45px;
+    width: 350px;
+    border: 1px solid rgb(236, 234, 234);
+    margin-top: 20px;
+    background-color: rgb(81, 203, 81);
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    padding: 4px;
+
+}
+
+.DataStructure{
+    height: 45px;
+    width: 350px;
+    border: 1px solid rgb(236, 234, 234);
+    margin-top: 10px;
+    background-color: rgb(81, 203, 81);
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    padding: 4px;
+}
+.content{
+    text-align: center;
+    padding: 10px;
+    
+}
+.risk{
+    height: 45px;
+    width: 350px;
+    border: 1px solid rgb(236, 234, 234);
+    margin-top: 30px;
+    background-color: rgb(81, 203, 81);
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    padding: 4px;
+}
+.analysis{
+    height: 45px;
+    width: 350px;
+    border: 1px solid rgb(236, 234, 234);
+    margin-top: 30px;
+    background-color: rgb(81, 203, 81);
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    padding: 4px;
+}
+.card2{
+    height:600px;
+    width: 360px;
+    border: 1px solid rgb(236, 234, 234);
+     margin-top: 20px; 
+    /* margin-left: 20px; */
+    display: inline-block;
+    box-shadow: 1px 2px 1px 1px rgb(236, 234, 234);;
+    
+    
+      
+}
+.image2{
+    padding: 8px;
+}
+.useCase2{
+    height: 45px;
+    width: 350px;
+    border: 1px solid rgb(236, 234, 234);
+    margin-top: 20px;
+    background-color: rgb(244, 182, 68);
+    font-size: x-large;
+    color: white;
+    text-align: center;
+    padding: 4px;
+}
+.DataStructure2{
+    height: 45px;
+    width: 350px;
+    border: 1px solid rgb(236, 234, 234);
+    margin-top: 10px;
+    background-color: rgb(244, 182, 68);
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    padding: 4px;
+}
+.risk2{
+    height: 45px;
+    width: 350px;
+    border: 1px solid rgb(236, 234, 234);
+    margin-top: 30px;
+    background-color: rgb(244, 182, 68);
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    padding: 4px;
+}
+.analysis2{
+    height: 45px;
+    width: 350px;
+    border: 1px solid rgb(236, 234, 234);
+    margin-top: 30px;
+    background-color: rgb(244, 182, 68);
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    padding: 4px;
+}
+

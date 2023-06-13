@@ -1,0 +1,118 @@
+style.css
+.page{
+    background-color: rgb(244, 255, 251);
+    height: 600px;
+    width: 1000px;
+    margin-left: 0px;
+    border-radius: 10px;
+
+
+}
+.section1{
+
+    height: 320px;
+    width: 230px;
+    border-radius: 5px;
+    margin-left: 80px;
+    margin-top: 100px;
+    display:inline-block;
+    border-radius: 10px;
+    border: 1px solid rgb(216, 206, 206);
+    }
+.section2{
+    
+    height: 320px;
+    width: 230px;
+    margin-left: 350px;
+    border-radius: 5px;
+    position:relative;
+    bottom: 350px;
+    border-radius: 10px;
+    border: 1px solid rgb(216, 206, 206);
+    }
+    .section3{
+      
+        height: 320px;
+        width: 230px;
+        margin-left: 620px;
+        border-radius: 5px;
+        position:relative;
+        bottom: 640px;
+        border-radius: 10px;
+        border: 1px solid rgb(216, 206, 206);
+    }
+
+
+.title{
+    background-color: rgb(10, 128, 88);
+    height: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+    
+}
+.title1{
+    background-color: rgb(185, 45, 10);
+    height: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+    
+}
+
+.title2{
+    background-color: rgb(10, 128, 88);
+    height: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+    
+}
+.price{
+    text-align: center;
+    
+
+}
+.button{
+   padding-top: 5px;
+    
+    text-align: center;
+}
+.button1{
+    height: 30px;
+    width: 150px;
+    background-color:rgb(10, 128, 88);
+    border-radius: 5px;
+    color: aliceblue;
+    border-style: none;
+}
+.li{
+    list-style: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+i{
+    color:darkgreen;
+}
+#a,#b{
+color:brown;
+}
+
+#b1{
+    color:brown;
+    }

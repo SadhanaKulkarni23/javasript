@@ -1,0 +1,56 @@
+stylemangodb.css
+*{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /* box-sizing: content-box; */
+}
+.container{
+
+    margin-left: 150px;
+    margin-right: 240px;
+    height: 650px;}
+.mangodb_page{
+    
+    display: inline-block;
+    border: 0px solid rgb(209, 204, 204);
+    text-align: center;
+    height: 610px;
+    width: 300px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.mangodb1_page{
+    
+    display: inline-block;
+    border-left: 0.5px solid rgb(209, 204, 204);
+    position: absolute;
+    text-align: center;
+    height: 610px;
+    width: 300px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.content{
+    height: 60px;
+    padding-top: 30px;
+
+
+}
+.title{
+    background-color: rgb(117, 196, 39);
+    font-size: large;
+    color:aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+.title1{
+    background-color: rgb(247, 155, 18);
+    font-size: large;
+    color:aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+#mangoTitle{
+
+    height:120px
+}
